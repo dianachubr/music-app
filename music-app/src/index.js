@@ -15,3 +15,35 @@ root.render(
 // to log results (for example: reportWebVitals(console.log))
 // or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
 reportWebVitals();
+
+function MenuList() {}
+
+function Search() {}
+
+function Login() {}
+
+function CenterBlock() {}
+
+function ButtonAuthor() {}
+
+function ButtonYear() {}
+
+function ButtonGenre() {}
+
+function TrackTitle() {}
+
+function TrackAuthor() {}
+
+function TrackAlbun() {}
+
+function Playlist() {}
+
+function PersonalName() {}
+
+function BarPlayer() {}
+
+function BarVolume() {}
+
+function Footer() {}
+
+
